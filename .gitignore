@@ -1,0 +1,9 @@
+# Obsidian: 기기별 / 자동 생성 설정
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
