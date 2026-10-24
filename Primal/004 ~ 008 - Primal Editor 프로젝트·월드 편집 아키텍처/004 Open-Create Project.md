@@ -4,7 +4,7 @@ notion-id: fdd06368-e533-450c-b462-3292736ecbde
 > [!note]+ **Revision History**
 
 
-
+![[004 Open-Create Project-1792802995000.png|500x281]]
 # 핵심 사항
 
 - XML Serialize/Deserialize
