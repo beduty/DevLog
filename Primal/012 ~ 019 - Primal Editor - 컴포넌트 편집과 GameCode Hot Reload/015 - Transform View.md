@@ -5,7 +5,7 @@ notion-id: af67973d-14af-438c-b7b4-3ba3c84bb3f8
 
 # 핵심 사항
 
-1. [[NOTION_PAGE:7078425d-fdde-4f4c-aed8-434dbfc53afd]] 에서 추가된 VectorBox로 TransformView를 구현
+1. [[014 - Custom Control]] 에서 추가된 VectorBox로 TransformView를 구현
 2. MS Component 업데이트 파이프라인 구현
 
 # 화면 스크린샷
@@ -14,7 +14,7 @@ notion-id: af67973d-14af-438c-b7b4-3ba3c84bb3f8
 
 # 추가된 내용
 
-3. [[NOTION_PAGE:7078425d-fdde-4f4c-aed8-434dbfc53afd]] 에서 추가된 VectorBox로 TransformView를 구현
+3. [[014 - Custom Control]] 에서 추가된 VectorBox로 TransformView를 구현
 	1. D-log [[NOTION_PAGE:745a0190-18f7-4b03-bcad-685b5fadeda8]] 참조 
 	2. Transform등을 표시할 수 있는 `ComponentView` 를 구현
 		- Header만 공통으로 쓰이고, 나머지는 상속받아 Custom하게 구현하도록 `ContentPresenter` 로 간단하게만 구현 
