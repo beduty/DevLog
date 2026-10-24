@@ -7,8 +7,8 @@
     "notion-api": {
       "folder": "Primal",
       "attachments": {
-        "mode": "vault",
-        "path": ""
+        "mode": "folder",
+        "path": "Primal/Primal_Attachment"
       },
       "duplicates": "update",
       "saveSourceId": true,
