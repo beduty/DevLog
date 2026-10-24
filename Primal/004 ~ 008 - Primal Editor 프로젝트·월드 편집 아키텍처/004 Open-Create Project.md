@@ -3,7 +3,7 @@ notion-id: fdd06368-e533-450c-b462-3292736ecbde
 ---
 > [!note]+ **Revision History**
 
-
+![[004 Open-Create Project-1792880844147.png|126]]
 
 # 핵심 사항
 
