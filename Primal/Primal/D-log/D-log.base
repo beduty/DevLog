@@ -1,0 +1,22 @@
+# D-log
+
+filters:
+  and:
+    - note["base"] == link("D-log.base")
+properties:
+  file.name:
+    displayName: Name
+  생성날짜:
+    displayName: 생성날짜
+  Created:
+    displayName: Created
+  Tags:
+    displayName: Tags
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - 생성날짜
+      - Created
+      - Tags

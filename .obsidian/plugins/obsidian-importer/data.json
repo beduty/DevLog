@@ -3,7 +3,20 @@
     "notion-api": "notion"
   },
   "outputLocations": {},
-  "outputSettings": {},
+  "outputSettings": {
+    "notion-api": {
+      "folder": "Primal",
+      "attachments": {
+        "mode": "vault",
+        "path": ""
+      },
+      "duplicates": "update",
+      "saveSourceId": true,
+      "idProperty": "notion-id",
+      "template": "",
+      "titleTemplate": "{{title}}"
+    }
+  },
   "onenoteAttachments": {},
   "sourceFolders": {},
   "lastSourceFolder": ""
